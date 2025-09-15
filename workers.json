@@ -1,3 +1,50 @@
 [
-  { "id": "w-1001", "name": "Elvin Huseynov", "category": "Электрик", "city": "Baku", "lat": 40.409264, "lng": 49.867092, "phone": "+994501112233", "whatsapp": "+994501112233", "salary": 60, "experience": 5, "photo": "", "desc": "Опытный электрик...", "createdAt": "2025-08-20T10:00:00Z" }
+  {
+    "id": "w-1001",
+    "name": "Иванова Ольга",
+    "category": "Репетитор английского",
+    "city": "Baku",
+    "lat": 40.409264,
+    "lng": 49.867092,
+    "phone": "+994501112233",
+    "whatsapp": "+994501112233",
+    "salary": 25,
+    "experience": 3,
+    "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+    "desc": "Преподаю английский детям и взрослым. Индивидуальный подход, опыт работы 3 года.",
+    "rating": 4.7,
+    "createdAt": "2025-08-20T10:00:00Z"
+  },
+  {
+    "id": "w-1002",
+    "name": "Петров Сергей",
+    "category": "Сантехник",
+    "city": "Sumqayıt",
+    "lat": 40.5895,
+    "lng": 49.6680,
+    "phone": "+994507778899",
+    "whatsapp": "+994507778899",
+    "salary": 50,
+    "experience": 7,
+    "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+    "desc": "Сантехнические работы любой сложности: установка смесителей, ремонт труб, монтаж душевых кабин.",
+    "rating": 4.9,
+    "createdAt": "2025-08-25T15:00:00Z"
+  },
+  {
+    "id": "w-1003",
+    "name": "Санжаров Руслан",
+    "category": "Грузчик",
+    "city": "Ganja",
+    "lat": 40.6828,
+    "lng": 46.3606,
+    "phone": "+994505554433",
+    "whatsapp": "+994505554433",
+    "salary": 30,
+    "experience": 2,
+    "photo": "https://randomuser.me/api/portraits/men/47.jpg",
+    "desc": "Помощь при переездах, разгрузке/погрузке. Работаю быстро и аккуратно.",
+    "rating": 4.5,
+    "createdAt": "2025-09-01T09:30:00Z"
+  }
 ]
